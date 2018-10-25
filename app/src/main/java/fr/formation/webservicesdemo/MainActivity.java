@@ -80,7 +80,7 @@ public class MainActivity extends AppCompatActivity {
             JSONObject pays = array.getJSONObject(i); // une petite boucle pour inserer tout les noms recup dans le tableaux result dans le tableaux nomPays
 
 
-           nomPays.add(pays.getString("name"));
+           nomPays.add(pays.getString("name")+" | "+pays.getString("alpha2_code"));
 
           }
 
