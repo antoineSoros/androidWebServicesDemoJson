@@ -2,4 +2,5 @@
     <string name="app_name">WebServicesDemo</string>
     <string name="voir_tout">VOIR TOUT</string>
     <string name="nom_du_pays">NOM DU PAYS</string>
+    <string name="par_code">PAR CODE</string>
 </resources>
